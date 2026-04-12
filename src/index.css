@@ -1,0 +1,7 @@
+
+/* estilos globales manejados desde App.jsx */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
